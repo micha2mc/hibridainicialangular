@@ -1,0 +1,7 @@
+{
+  "name": "hibridainicialangular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
